@@ -2,16 +2,25 @@
 {background-color: 
 cornflowerblue;
 font-style: italic;
-text-align: center;}
+text-align: center;
+font-size: x-large
+}
 
     .paragrafos
 {background-color: black;
-color: white;}
+color: white;
+font-size: large;
+}
    
     .sobre
 {background-color: cornflowerblue;
- font-style: italic;}
+ font-style: italic;
+font-size: xx-large;}
     
     .fundo
 {background-color: rgb(187, 187, 187);
- color: black;}
+ color: black;
+font-size: medium;}
+
+    .margem
+{text-align: center;}
